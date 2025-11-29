@@ -1,8 +1,8 @@
 # Unchosen_Forsaken-Portfolio
 
-**Unchosen: Forsaken (2022)**
+**Unchosen: Forsaken (2021)**
 
-*First Published Game • VR Horror • Released July 2022 on Steam*
+*First Published Game • VR Horror • Released July 2021 on Steam*
 
 *Steam Page*
 
@@ -10,9 +10,9 @@ Availability: Paid (Steam key available upon request)
 
 **⭐ Project Overview**
 
-Unchosen: Forsaken is a first-person VR horror experience developed entirely solo over the course of 2021–2022. Inspired by my night-shift job working alone in a call center overnight, the game focuses on fear, tension, and psychological pressure rather than combat. Players navigate four distinct levels—an office complex, a sewer system, city streets, and a large-scale boss arena—while avoiding and outsmarting a variety of hostile entities.
+Unchosen: Forsaken is a first-person VR horror experience developed entirely solo over the course of 2020–2021. Inspired by my night-shift job working alone in a call center overnight, the game focuses on fear, tension, and psychological pressure rather than combat. Players navigate four distinct levels—an office complex, a sewer system, city streets, and a large-scale boss arena—while avoiding and outsmarting a variety of hostile entities.
 
-This was my first published game, launching on Steam in July 2022. It pushed my abilities across VR interaction design, AI behavior systems, animation, sound design, and performance-conscious level construction.
+This was my first published game, launching on Steam in July 2021. It pushed my abilities across VR interaction design, AI behavior systems, animation, sound design, and performance-conscious level construction.
 
 **🎮 Gameplay Summary**
 
