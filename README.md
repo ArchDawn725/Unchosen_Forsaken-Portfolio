@@ -78,54 +78,49 @@ Unchosen: Forsaken is a first-person VR horror experience developed entirely sol
 
 # **🗂️ Key Scripts to Review**
 
+## *Core*
 
-### *Core*
+*Player.cs*
 
-VRGameController – primary flow control, state machine management
+## *Systems*
 
-LevelManager – loads one of 20 map variants, handles baked lighting logic
+*Movement.cs*
 
-### *Systems*
+*SpawnController.cs*
 
-EnemyStateMachine – Enum-based AI state transitions for all entities
+*HostileSpawner.cs*
 
-PlayerFlashlightSystem – manages battery, modes, and enemy reaction triggers
+*ItemSpawner.cs*
 
-RandomItemSpawner – handles randomized item placement in each level
+*introScript.cs*
 
-SoundPropagationSystem – determines which enemies hear which sounds
+*MapControllerS.cs*
 
-EnvironmentalHazardSystem – traps, sewer dangers, etc.
+*Flashlight.cs*
 
-### *AI*
+*OutsideHostileSpawner.cs*
 
-LightSensitiveEnemyAI – reacts to flashlight and lanterns
+*Launtern.cs*
 
-SoundSensitiveEnemyAI – tracks noises, checks reverberation
+## *AI*
 
-GazeSensitiveEnemyAI – attacks or hides based on whether player looks at it
+*Hostile2.cs*
 
-BossAI – large-scale arena behavior logic
+*Ghost.cs*
 
-### *Managers*
+## *Utilities*
 
-VRInteractionManager – manages hands, backpack interactions
+*HandPresence.cs*
 
-EntityManager – registers and updates active entities
+*Flicker.cs*
 
-AudioManager – dynamic reverb by level type
+*Holder.cs*
 
-### *UI*
+*Holdster.cs*
 
-VRHUDController – minimal UI for interactions
+*PointTest.cs*
 
-### *Utilities*
-
-BatterySystemUtility
-
-RaycastHelper
-
-VRInputUtility
+*LightRays.cs*
 
 # **🧪 Development Notes**
 
